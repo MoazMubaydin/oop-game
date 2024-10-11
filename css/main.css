@@ -1,4 +1,19 @@
 
 body {
     background-color: pink;
+    padding:0;
+    margin: 0;
+}
+#player{
+    background-color: red;;
+    position: absolute;
+   
+
+}
+
+#board{
+    position: relative;
+    height:100vh;
+    width: 100vw;
+    
 }
