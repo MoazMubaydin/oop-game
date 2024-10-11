@@ -39,12 +39,6 @@ class Player {
         this.domElement.style.left = this.positionX + "vw";
 
     }
-    moveUp() {
-
-    }
-    moveDown() {
-
-    }
 }
 
 const player = new Player();
